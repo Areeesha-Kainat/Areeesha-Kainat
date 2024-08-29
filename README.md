@@ -19,8 +19,9 @@
 - ⚡ I'm a **Power BI developer**
 
 - 📫 How to reach me **via LinkedIn(www.linkedin.com/in/areesha-kainat)**
-
+<br>
 <h3 align="left">Connect with me:</h3>
+<br>
 <p align="left">
 <a href="https://linkedin.com/in/areesha kainat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="areesha kainat" height="30" width="40" /></a>
 <a href="https://fb.com/areesha kainat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="areesha kainat" height="30" width="40" /></a>
