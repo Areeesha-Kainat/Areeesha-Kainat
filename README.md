@@ -23,10 +23,13 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
-
+<p align="center">
+  <img alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
+</p>
 </div>
 
 ---
+
 
 ## 💫 About Me
 
