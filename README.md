@@ -1,7 +1,7 @@
 <!-- Header Section with Dynamic Badges -->
 <div align="center">
 
-![Dynamic Banner](https://github-readme-banner.vercel.app/api?username=Areeesha-Kainat&title=Areesha%20Kainat&subtitle=AI%20×%20Web3%20×%20Full-Stack%20Developer&description=Building%20Intelligent%20Digital%20Solutions&pattern=topography&colorA=2d4059&colorB=ea5455)
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 <!-- Animated Typing Text -->
 <p align="center">
