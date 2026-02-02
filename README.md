@@ -1,8 +1,6 @@
 <!-- Header Section with Dynamic Badges -->
 <div align="center">
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
-
 <!-- Animated Typing Text -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=EA5455&center=true&vCenter=true&width=600&lines=AI+Product+Engineer;Full-Stack+Developer;Data+Scientist;Web3+Enthusiast;UI/UX+Designer;Power+BI+Developer" alt="Typing Animation" />
