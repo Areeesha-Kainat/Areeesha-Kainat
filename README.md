@@ -21,7 +21,7 @@
 
 ---
 
-## 💫 About Me
+##  About Me
 
 <div align="center">
 
@@ -91,21 +91,6 @@ I'm a passionate **Software Engineer** specializing in **AI-driven solutions**. 
 ##  GitHub Stats & Activity
 
 <div align="center">
-
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Areeesha-Kainat&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ea5455&icon_color=ea5455&text_color=ffffff" />
-
-<br/><br/>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Areeesha-Kainat&layout=compact&hide_border=true&bg_color=0d1117&title_color=ea5455&text_color=ffffff&langs_count=8" />
-
-<br/><br/>
-
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=Areeesha-Kainat&hide_border=true&background=0d1117&stroke=ea5455&ring=ea5455&fire=ea5455&currStreakLabel=ea5455&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff" />
-
-<br/><br/>
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Areeesha-Kainat&bg_color=0d1117&color=ea5455&line=ea5455&point=ffffff&area=true&hide_border=true" />
