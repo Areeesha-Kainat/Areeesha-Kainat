@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=EA5455&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+Product+Engineer;Full-Stack+Developer;Data+Scientist;Web3+Enthusiast;UI/UX+Designer;Power+BI+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=1E40AF&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+Product+Engineer;Full-Stack+Developer;Data+Scientist;Web3+Enthusiast;UI/UX+Designer;Power+BI+Developer" />
 </p>
 
 <!-- Social Badges -->
@@ -93,7 +93,7 @@ I'm a passionate **Software Engineer** specializing in **AI-driven solutions**. 
 <div align="center">
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Areeesha-Kainat&bg_color=0d1117&color=ea5455&line=ea5455&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Areeesha-Kainat&bg_color=0d1117&color=1E40AF&line=3B82F6&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
@@ -131,6 +131,7 @@ I'm a passionate **Software Engineer** specializing in **AI-driven solutions**. 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/areesha-kainat)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:areeshakainat03@gmail.com)
 
+
 </div>
 
 ---
@@ -141,6 +142,7 @@ I'm a passionate **Software Engineer** specializing in **AI-driven solutions**. 
 
 ⭐ *Star some repositories if you find my work interesting!* ⭐
 
-![Visitors](https://komarev.com/ghpvc/?username=Areeesha-Kainat&color=ea5455&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=Areeesha-Kainat&color=1E40AF&style=flat-square")
+
 
 </div>
