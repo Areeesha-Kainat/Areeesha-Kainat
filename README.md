@@ -93,7 +93,7 @@ I'm a passionate **Software Engineer** specializing in **AI-driven solutions**. 
 <div align="center">
 
 <!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=Areeesha-Kainat&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ea5455&icon_color=ea5455&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api?username=Areeesha-Kainat&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ea5455&icon_color=ea5455&text_color=ffffff" />
 
 <br/>
 
