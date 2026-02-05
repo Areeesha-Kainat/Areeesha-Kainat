@@ -1,5 +1,3 @@
-# 👩‍💻 Software Engineer | AI Product Engineer
-
 <div align="center">
 
 <!-- Animated Typing Text -->
@@ -41,16 +39,16 @@ I'm a passionate **Software Engineer** specializing in **AI-driven solutions**. 
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+##  Tech Stack & Expertise
 
-### **🤖 AI & Machine Learning**
+### ** AI & Machine Learning**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n&logoColor=white)
 
-### **🎨 Frontend Development**
+### ** Frontend Development**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -62,7 +60,7 @@ I'm a passionate **Software Engineer** specializing in **AI-driven solutions**. 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-### **⚙️ Backend Development**
+### ** Backend Development**
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -73,7 +71,7 @@ I'm a passionate **Software Engineer** specializing in **AI-driven solutions**. 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-### **🗄️ Databases & Cloud**
+### ** Databases & Cloud**
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
@@ -81,7 +79,7 @@ I'm a passionate **Software Engineer** specializing in **AI-driven solutions**. 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 
-### **🎨 Design & Tools**
+### ** Design & Tools**
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -90,19 +88,9 @@ I'm a passionate **Software Engineer** specializing in **AI-driven solutions**. 
 
 ---
 
-## 📊 GitHub Stats & Activity
+##  GitHub Stats & Activity
 
 <div align="center">
-
-<!-- GitHub Stats Cards -->
-![Areesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Areeesha-Kainat&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&title_color=ea5455&icon_color=ea5455&text_color=ffffff)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Areeesha-Kainat&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ea5455&text_color=ffffff&langs_count=8)
-
-<!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=Areeesha-Kainat&theme=radical&hide_border=true&background=0d1117&stroke=ea5455&fire=ea5455&ring=ea5455&currStreakLabel=ea5455)
-
 <!-- Activity Graph -->
 ![Areesha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Areeesha-Kainat&theme=github-dark&bg_color=0d1117&color=ea5455&line=ea5455&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph)
 
@@ -110,63 +98,35 @@ I'm a passionate **Software Engineer** specializing in **AI-driven solutions**. 
 
 ---
 
-## 🏆 Certifications & Highlights
+##  Certifications & Highlights
 
 <div align="center">
 
 | **Certification** | **Issuer** | **Focus Area** |
 |-------------------|------------|----------------|
+| Software Engineer | Aptech Learning | Software Development |
 | Agentic AI Engineer | PIAIC / GIAIC | Artificial Intelligence |
 | Certified Data Scientist | NED University | Data Science |
-| Microsoft Certified | Microsoft | Cloud & Development |
-| Google Certified | Google Cloud | Cloud Computing |
-| Cisco Certified | Cisco | Networking |
+| Microsoft Certified | Microsoft | Career Essentials in GenAI |
+| Google Certified | Google Cloud | Introduction to GenAI |
+| Cisco Certified | Cisco | IT Support Specialist |
 
 </div>
 
-### 🎖️ **Professional Milestones**
-- ✅ **Senior Student** at Governor's Generative AI Initiative
-- ✅ Completed **HackerRank & JPMorgan** virtual experience programs
-- ✅ **Multi-certified** professional across Microsoft, Google, and Cisco platforms
-- ✅ **Diploma in Software Engineering** from Aptech Learning
-- ✅ Active contributor to **AI and Web3 communities**
+###  **Professional Milestones**
+-  **CR** at Governor's Generative AI Initiative
+-  Completed **HackerRank & JPMorgan** virtual experience programs
+-  **Multi certified** professional across Microsoft, Google, and Cisco platforms
+-  **Diploma in Software Engineering** from Aptech Learning
+  
 
 ---
 
-## 🎯 Featured Projects
-
-### 🤖 **AI-Powered Applications**
-> Intelligent solutions combining AI with modern web technologies
-
-### 🌐 **Web3 & Blockchain Projects**
-> Decentralized applications exploring new frontiers
-
-### 📊 **Data Visualization Dashboards**
-> Interactive BI tools for data-driven decisions
-
-### 🎨 **UI/UX Design Systems**
-> Beautiful and functional design implementations
-
-<div align="center">
-  
-<!-- Project Cards would go here -->
-*🚀 Projects coming soon! Currently working on exciting AI and web applications.*
-  
-</div>
-
----
-
-## 📫 Let's Connect & Collaborate
+##  Let's Connect & Collaborate
 
 <div align="center">
 
-### 💼 **Looking for opportunities in:**
-- AI Product Development
-- Full-Stack Engineering
-- Web3 Projects
-- Data Science & Analytics
-
-### 📧 **Contact Me:**
+###  **Contact Me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/areesha-kainat)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:areeshakainat03@gmail.com)
 
