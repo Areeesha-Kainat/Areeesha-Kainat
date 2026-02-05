@@ -92,7 +92,7 @@ I'm a passionate **Software Engineer** specializing in **AI-driven solutions**. 
 
 <div align="center">
 <!-- Activity Graph -->
-![Areesha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Areeesha-Kainat&theme=github-dark&bg_color=0d1117&color=ea5455&line=ea5455&point=ffffff&area=true&hide_border=true)
+![Areesha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Areeesha-Kainat&bg_color=0d1117&color=ea5455&line=ea5455&point=ffffff&area=true&hide_border=true)
 
 </div>
 
@@ -128,7 +128,7 @@ I'm a passionate **Software Engineer** specializing in **AI-driven solutions**. 
 
 ###  **Contact Me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/areesha-kainat)
-[!(https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:areeshakainat03@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:areeshakainat03@gmail.com)
 
 </div>
 
