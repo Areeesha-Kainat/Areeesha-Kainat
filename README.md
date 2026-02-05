@@ -137,7 +137,7 @@ I'm a passionate **Software Engineer** specializing in **AI-driven solutions**. 
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=From%20learning%20today%20to%20building%20tomorrow%20—%20I%20code%20with%20purpose%20and%20passion.&author=Areesha%20Kainat)
 
 ⭐ *Star some repositories if you find my work interesting!* ⭐
 
