@@ -1,117 +1,105 @@
 <div align="center">
 
-<!-- Animated Typing Text Headline -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Software+Engineer;Full+Stack+Developer;AI+Product+Engineer;From+raw+concepts+to+live+web+apps+%26+intelligent+tools" />
-</p>
+<img src="./assets/header.svg" alt="Areesha Kainat — Full Stack Developer & AI Product Engineer" width="100%"/>
 
-<!-- Social Links / Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/areesha-kainat">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:areeshakainat03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Areeesha-Kainat?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<br/>
 
-<!-- Developer / Cat Laptop Avatar Vibe -->
-<p align="center">
-  <img alt="coding cat" width="320" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
-</p>
+<a href="https://www.linkedin.com/in/areesha-kainat"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:areeshakainat03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Areeesha-Kainat?tab=repositories"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://komarev.com/ghpvc/?username=Areeesha-Kainat&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 </div>
 
----
+## I like the moment an idea starts running
 
-### ⚡ About Me
+I build web platforms and AI agents that go from a rough concept to something people can open, use, and rely on. I care about the part after "it works on my machine": clean architecture, a UI that makes sense, and automation that saves a business real hours.
 
-> *"I’ve always been fascinated by the moment an abstract idea turns into a fully functioning, living application."*
+My foundations: an Advanced Diploma in Software Engineering (**Lincoln University College**), a Data Science certification from **NED University**, Agentic AI Engineer training through **PIAIC / Governor's Initiative**, credentials from **Microsoft, Google and Cisco**, and the **One Million Prompters Initiative** (Dubai Future Foundation / DCAI) 🇦🇪
 
-As a **Full Stack Developer** and **AI Product Engineer**, I live right at that intersection. I don’t just write code to check off requirements—I build scalable web platforms and intelligent AI agents that solve actual problems and help businesses move faster.
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-My journey into tech has been driven by constant learning. I’ve backed up practical engineering experience with rigorous foundations: an Advanced Diploma in Software Engineering (**Lincoln University College**), a Data Science certification from **NED University**, specialized training as an Agentic AI Engineer through **PIAIC / Governor's Initiative**, and technical credentials from **Microsoft, Google, and Cisco**, alongside completing the **One Million Prompters Initiative** (Dubai Future Foundation / DCAI). 🇦🇪
-
----
-
-### 🛠️ What I Actually Do
+## What I build
 
 <table>
   <tr>
-    <td width="33%" align="center">
-      <h3>💻 Full Stack Craft</h3>
-      <p>Building responsive, high-performance web and mobile interfaces using React, Next.js, TypeScript, Tailwind, and Flutter, backed by robust server-side architectures.</p>
+    <td width="33%" valign="top">
+      <h3>💻 Full stack products</h3>
+      Responsive web and mobile apps in React, Next.js, TypeScript, Tailwind and Flutter, with solid server-side architecture behind them.
     </td>
-    <td width="33%" align="center">
-      <h3>🤖 AI & Automation</h3>
-      <p>Bridging modern development with generative AI—building custom RAG pipelines, deploying AI agents with the OpenAI Agent SDK & LangChain, and orchestrating workflows.</p>
+    <td width="33%" valign="top">
+      <h3>🤖 AI agents and automation</h3>
+      Custom RAG pipelines, agents built with the OpenAI Agents SDK and LangChain, and workflows orchestrated in n8n.
     </td>
-    <td width="33%" align="center">
-      <h3>📊 Data & Design</h3>
-      <p>Turning raw data into clear insights using Python, Power BI, and SQL, always anchored by a user-first UI/UX approach in Figma.</p>
+    <td width="33%" valign="top">
+      <h3>📊 Data and design</h3>
+      Raw data turned into clear insight with Python, SQL and Power BI, shaped by a user-first approach in Figma.
     </td>
   </tr>
 </table>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-### 🧰 Tech Stack & Ecosystem
+## My stack, in orbit
 
 <div align="center">
+  <img src="./assets/orbit.svg" alt="Animated 3D orbit of my tech stack" width="100%"/>
+</div>
 
-| Category | Technologies & Tools |
+<details>
+<summary><b>Full toolbox</b></summary>
+<br/>
+
+| | |
 | :--- | :--- |
-| **Languages & Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
-| **Frontend & Web** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Backend & Cloud** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) |
-| **AI, LLMs & Data** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
-| **Tools & Design** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Backend and cloud** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) |
+| **AI and data** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
+| **Tools and design** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) |
 
-</div>
+</details>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-### 📜 Education & Certifications
+## Education and certifications
 
-<div align="center">
+| Credential | Institution | Focus |
+| :--- | :--- | :--- |
+| **Advanced Diploma in Software Engineering** | Lincoln University College | Full-stack software development |
+| **One Million Prompters Initiative** | Dubai Future Foundation / DCAI 🇦🇪 | Prompt and context engineering |
+| **Agentic AI Engineer Diploma** | PIAIC / GIAIC | Autonomous agents and LLMs |
+| **Data Science Certification** | NED University | Data science and analytics |
+| **Career Essentials in GenAI** | Microsoft | Generative AI fundamentals |
+| **IT Support Specialist** | Cisco | Cisco certified |
+| **Intro to GenAI** | Google Cloud | Cloud AI services |
 
-| **Credential / Degree** | **Institution** | **Focus Area** |
-|-------------------------|-----------------|----------------|
-| **Advanced Diploma in Software Eng.** | Lincoln University College | Full-Stack Software Development |
-| **One Million Prompters Initiative** | Dubai Future Foundation / DCAI 🇦🇪 | Prompt & Context Engineering |
-| **Agentic AI Engineer Diploma** | PIAIC / GIAIC | Autonomous Agents & LLMs |
-| **Data Science Certification** | NED University | Data Science & Analytics |
-| **Career Essentials in GenAI** | Microsoft | Generative AI Fundamentals |
-| **Intro to GenAI** | Google Cloud | Cloud AI Services |
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-</div>
-
----
-
-### 📈 GitHub Metrics & Activity
+## Stats and activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Areeesha-Kainat&bg_color=0d1117&color=3B82F6&line=3B82F6&point=ffffff&area=true&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Areeesha-Kainat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60A5FA&icon_color=A78BFA" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areeesha-Kainat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60A5FA" alt="Top languages"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Areeesha-Kainat&bg_color=0d1117&color=60A5FA&line=3B82F6&point=ffffff&area=true&hide_border=true" alt="Contribution activity" width="100%"/>
 
 </div>
 
----
+## Let's build something
+
+If you have an idea that needs to become a working product, or a process that an AI agent could take off your plate, I'd like to hear about it.
 
 <div align="center">
-
-### 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areesha-kainat)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:areeshakainat03@gmail.com)
 
-<br>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-*“From learning today to building tomorrow — I code with purpose and passion.”*
-
-![Visitors](https://komarev.com/ghpvc/?username=Areeesha-Kainat&color=3B82F6&style=flat-square)
+*From learning today to building tomorrow, I code with purpose and passion.*
 
 </div>
