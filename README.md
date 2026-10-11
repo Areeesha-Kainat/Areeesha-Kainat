@@ -105,20 +105,3 @@ My journey into tech has been driven by constant learning. I’ve backed up prac
 </div>
 
 ---
-
-<div align="center">
-
-### 🤝 <ins>Let's Connect</ins>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0284C7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areesha-kainat)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-E11D48?style=for-the-badge&logo=gmail&logoColor=white)](mailto:areeshakainat03@gmail.com)
-
-<br>
-
-*“From learning today to building tomorrow — I code with purpose and passion.”*
-
-<br>
-
-![Visitors](https://komarev.com/ghpvc/?username=Areeesha-Kainat&color=60A5FA&style=flat-square)
-
-</div>
