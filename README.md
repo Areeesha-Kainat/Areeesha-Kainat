@@ -93,7 +93,14 @@ My journey into tech has been driven by constant learning. I’ve backed up prac
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Areeesha-Kainat&bg_color=0d1117&color=60A5FA&line=3B82F6&point=ffffff&area=true&hide_border=true" />
+<!-- Reliable Dark-Theme Stats Cards -->
+<img src="https://github-readme-stats.vercel.app/api?username=Areeesha-Kainat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Areeesha-Kainat&theme=tokyonight&hide_border=true&background=0d1117" height="165" />
+
+<br><br>
+
+<!-- Top Languages Chart -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areeesha-Kainat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css" />
 
 </div>
 
