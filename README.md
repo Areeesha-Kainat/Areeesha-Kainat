@@ -106,57 +106,6 @@ My journey into tech has been driven by constant learning. I’ve backed up prac
 <img src="https://github-readme-stats.vercel.app/api?username=Areeesha-Kainat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Areeesha-Kainat&theme=tokyonight&hide_border=true&background=0d1117" height="165" />
 
-</div>### 📈 <ins>GitHub Metrics & Activity</ins>
-
-<div align="center">
-
-<!-- Animated Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Areeesha-Kainat/Areeesha-Kainat/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Areeesha-Kainat/Areeesha-Kainat/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Areeesha-Kainat/Areeesha-Kainat/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br><br>
-
-<!-- Reliable Dark-Theme Stats Cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=Areeesha-Kainat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Areeesha-Kainat&theme=tokyonight&hide_border=true&background=0d1117" height="165" />
-
-</div>### 📈 <ins>GitHub Metrics & Activity</ins>
-
-<div align="center">
-
-<!-- Animated Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Areeesha-Kainat/Areeesha-Kainat/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Areeesha-Kainat/Areeesha-Kainat/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Areeesha-Kainat/Areeesha-Kainat/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br><br>
-
-<!-- Reliable Dark-Theme Stats Cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=Areeesha-Kainat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Areeesha-Kainat&theme=tokyonight&hide_border=true&background=0d1117" height="165" />
-
-</div>### 📈 <ins>GitHub Metrics & Activity</ins>
-
-<div align="center">
-
-<!-- Animated Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Areeesha-Kainat/Areeesha-Kainat/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Areeesha-Kainat/Areeesha-Kainat/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Areeesha-Kainat/Areeesha-Kainat/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br><br>
-
-<!-- Reliable Dark-Theme Stats Cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=Areeesha-Kainat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Areeesha-Kainat&theme=tokyonight&hide_border=true&background=0d1117" height="165" />
-
 </div>
 
 ---
